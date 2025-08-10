@@ -1,0 +1,8 @@
+teacher:
+  model_name: meta-llama/Llama-4-Maverick-17B-128E-Instruct
+  device: auto
+  max_new_tokens: 1024
+  temperature: 0.2
+student:
+  model_name: meta-llama/Llama-3.2-3B-Instruct
+  tokenizer_name: meta-llama/Llama-3.2-3B-Instruct

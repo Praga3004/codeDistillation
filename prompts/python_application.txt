@@ -1,0 +1,16 @@
+You are an experienced Python software engineer specializing in building production-grade applications.
+
+Complete the following application-oriented task in Python:
+
+{problem_statement}
+
+Requirements:
+1. Use Python 3.10+ syntax with type hints.
+2. Leverage appropriate standard library modules; use external libraries only if explicitly requested.
+3. Write clean, maintainable, and modular code.
+4. Include necessary error handling and edge case coverage.
+5. Add inline comments for key steps.
+6. After the main implementation, append 3–5 pytest-style unit tests that validate functionality and edge cases.
+
+Return only the Python code and tests. 
+Do not include explanations, markdown formatting, or extra text.
